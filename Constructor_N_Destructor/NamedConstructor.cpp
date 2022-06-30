@@ -1,6 +1,6 @@
 // named constructor idiom is used to solve ambiguous nature of constructor.
 // Constructor with same no of parameters of same type
-// Declare all the class’s constructors in the private or protected sections, and then for accessing objects of class, create public static functions.
+// Declare all the classâ€™s constructors in the private or protected sections, and then for accessing objects of class, create public static functions.
 
 #include <iostream>
 
